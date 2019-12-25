@@ -40,7 +40,7 @@ bytecode)로 타겟프로그램을 작성한다.
    x = x + 1;
    y = x; 
    y = y - 1 * 2 / 3;
-   z = y = x
+   z = y = x;
 
 이  소스프로그램의  구문(syntax)과  의미(semantics)는  C,  C++,  Java,
 Python,  JavaScript와   같은  프로그램언어   중  어느   하나라도  배운
